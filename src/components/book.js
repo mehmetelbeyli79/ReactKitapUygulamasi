@@ -4,7 +4,7 @@ import "../app.css"
 const Book=(props)=> {
     
     const CharacterLenght=(uzunluk)=>{
-        return uzunluk.length>80 ? uzunluk.substring(0,50).concat("...") : uzunluk 
+        return uzunluk.length>100 ? uzunluk.substring(0,50).concat("...") : uzunluk 
     }
     return (
         
