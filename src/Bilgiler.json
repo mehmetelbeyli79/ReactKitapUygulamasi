@@ -1,0 +1,43 @@
+[
+	{
+		"id":1,
+		"name":"Kara Kutu",
+		"link":"https://i.idefix.com/cache/600x600-0/originals/0001846855001-1.jpg",
+		"author":"Soner Yalçın",
+		"slogan":"Bu bir cinayet romanı değil…Modern tıbbın karanlık yüzü aydınlanıyor…Rockefeller’ın kozmik odasındaki Türkler kim?Neyin karşılığı, ne kadar para aldılar?Tabular yıkılacak… Ezberler bozulacak…Artık yüzleşme vakti…"
+	},
+	{
+		"id":2,
+		"name":"Var mısın? - Güçlü Bir Yaşam İçin Öneriler",
+		"link":"https://i.idefix.com/cache/500x400-0/originals/0001903548001-1.jpg",
+		"slogan":"Ömür yolculuğunda neyin önemli olduğunu anlamak, keşif ve merak duygularına sahip çıkmak bir hayatı “kıymetli” kılmak için en önemli meziyetler arasında. Elinizdeki rehber niteliğindeki kitap, yaşamı boyunca bu meziyetlerin peşine düşmüş ve her ânına onları ilmek ilmek işlemiş Doğan Cüceloğlu’nun, Deniz Bayramoğlu ile sohbetlerinden oluşuyor ve herkese şu soruyu soruyor: “Zorluklarla başa çıkmaya, içindeki gücü keşfetmeye VAR MISIN?"
+	},
+	{
+		"id":3,
+		"name":"İrade Terbiyesi",
+		"link":"https://i.idefix.com/cache/500x400-0/originals/0001776241001-1.jpg",
+		"author":"Jules Payet",
+		"slogan":"Cemil Meric'in Disiplin içinde çalışmayı bu kitaptan öğrendim.diye tarif ettiği İrade Terbiyesi İlk yayımlandığı tarihten itibaren pek çok dile çevrilmiş ve tembellik, İsteksizlik gibi huylardan kurtulmak isteyenlerin başucu kitabı olmuştur."
+	},
+	{
+		"id":4,
+		"name":"1984",
+		"link":"https://i.idefix.com/cache/500x400-0/originals/0000000064038-1.jpg",
+		"author":"George Orwel",
+		"slogan":"Distopya olarak nitelendirilen George Orwell’ın bu şahane eseri, geçmişin aslında ne kadar da gelecekten izler taşıdığını ortaya koyuyor. 1948’de kaleme aldığı bu eser ile Orwell, günümüz modern dünyasına bir protesto bırakıyor. "
+	},
+	{
+		"id":5,
+		"name":"Hayır Diyebilme Sanatı",
+		"link":"https://i.idefix.com/cache/500x400-0/originals/0001835964001-1.jpg",
+		"author":"Müthiş Psikoloji",
+		"slogan":"Dilediğiniz zaman dilediğiniz yemeği yiyebiliyor olmak mıdır sizce özgürlük? Toplumsal hiçbir baskı hissetmeden içinizden geldiği gibi giyinebiliyor olmak mı yoksa?"
+	},
+	{
+		"id":6,
+		"name":"Fareler ve İnsanlar",
+		"link":"https://i.idefix.com/cache/500x400-0/originals/0000000411500-1.jpg",
+		"author":"John Steinbeck",
+		"slogan":"Nobel ödüllü yazar John Steinbeck’in ilk kez 1937 yılında yayınlanan eseri; çiftlikten çiftliğe dolaşarak çalışan iki yakın arkadaşın başından geçen maceraları ve onların hayallerine sıkı sıkıya olan bağlılığını konu ediniyor."
+	}
+]
